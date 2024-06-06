@@ -16,7 +16,18 @@
 
 博客：https://blog.csdn.net/weixin_74095289/article/details/139510694?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22139510694%22%2C%22source%22%3A%22weixin_74095289%22%7D
 
+2. #### BADCHAIN: BACKDOOR CHAIN-OF-THOUGHT PROMPTING FOR LARGE LANGUAGE MODELS
+出处：	Accepted to ICLR2024
 
+作者： Zhen Xiang, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li
+
+发布时间：20 Jan 2024
+
+原文： https://arxiv.org/abs/2401.12242
+
+简介：在本文中，我们提出了BadChain，这是第一个使用COT提示的针对LLM的后门攻击，它不需要访问训练集或模型详细信息。我们展示了BadChain对两个COT策略和四个LLM在六个基准推理任务上的有效性，并对这种有效性提供了解释。此外，我们进行了广泛的消融研究，以说明BadChain的设计选择可以很容易地通过少量的实例来确定。最后，我们提出了两种后门防御方法，并证明了它们对BadChain的无效性。因此，BadChain仍然是LLMs的重要威胁，需要在未来开发更有效的防御方法。
+
+博客：https://blog.csdn.net/weixin_74095289/article/details/139511980?spm=1001.2014.3001.5501
 
 
 ## 综述
